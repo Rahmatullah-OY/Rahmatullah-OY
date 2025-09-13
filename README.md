@@ -31,5 +31,27 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatullah-oy&" alt="rahmatullah-oy" /></p>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rahmatullah-OY.Rahmatullah-OY&"  />
+</div>
 
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahmatullah-OY/Rahmatullah-OY/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahmatullah-OY/Rahmatullah-OY/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rahmatullah-OY/Rahmatullah-OY/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Rahmatullah-OY/Rahmatullah-OY/output/snake.svg" alt="Snake animation" />
+
+###
 
