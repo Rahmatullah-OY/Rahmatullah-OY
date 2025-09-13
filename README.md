@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **R programming, Tableau and Python**
 
-- 👯 I’m looking to collaborate on **Employee Survey Response**
+- 👯 I’m looking to collaborate on **Employee Survey Response Dashboard**
 
 - 💬 Ask me about **Power BI, SQL and Excel**
 
 - 📫 How to reach me **rahmatullahyakubu@gmail.com**
 
-- ⚡ Fun fact **I think i love to sleep**
+- ⚡ Fun fact **I think I love to sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,5 +33,3 @@
 
 
 
-- ⚡ Fun fact: ...
--->
