@@ -1,4 +1,4 @@
-[![Masterhead](https://pin.it/2Fei6rhJq)]
+![Masterhead](https://pin.it/2Fei6rhJq)
 <h1 align="center">Hi 👋, I'm Rahmatullah</h1>
 <h3 align="center">A passionate Data Analyst from Nigeria</h3>
 
