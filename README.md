@@ -1,4 +1,4 @@
-![Masterhead](https://pin.it/2Fei6rhJq)
+[![MasterHead](https://pin.it/2Fei6rhJq))](https://github.com/Rahmatullah-OY)
 <h1 align="center">Hi 👋, I'm Rahmatullah</h1>
 <h3 align="center">A passionate Data Analyst from Nigeria</h3>
 
