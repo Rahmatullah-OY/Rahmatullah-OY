@@ -1,4 +1,4 @@
-[![MasterHead](https://share.google/images/8Ce9KD10kwR5VLaCZ)
+[![MasterHead](https://share.google/images/8Ce9KD10kwR5VLaCZ)]
 <h1 align="center">Hi 👋, I'm Rahmatullah</h1>
 <h3 align="center">A passionate Data Analyst from Nigeria</h3>
 
