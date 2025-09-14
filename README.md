@@ -1,4 +1,4 @@
-[![MasterHead](https://pin.it/2Fei6rhJq))](https://github.com/Rahmatullah-OY)
+[![MasterHead](https://pin.it/2Fei6rhJq)](https://github.com/Rahmatullah-OY)
 <h1 align="center">Hi 👋, I'm Rahmatullah</h1>
 <h3 align="center">A passionate Data Analyst from Nigeria</h3>
 
@@ -9,8 +9,6 @@
 - 🔭 I’m currently working on **Airline Passenger Satisfaction Rate**
 
 - 🌱 I’m currently learning **R programming, Tableau and Python**
-
-- 👯 I’m looking to collaborate on **Employee Survey Response Dashboard**
 
 - 💬 Ask me about **Power BI, SQL and Excel**
 
