@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rahmatullahyakubu@gmail.com**
 
-- ⚡ Fun fact **I think I love to sleep**
+- ⚡ Fun fact **I think I love to Visualize insights using Power BI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
